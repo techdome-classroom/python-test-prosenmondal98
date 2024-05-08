@@ -16,7 +16,8 @@ class Solution:
                 if j==c-1:
                     pass
                 # bottom check
-                if 
+                if i==r-1:
+                    pass
 
                     
         return 0
