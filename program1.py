@@ -19,7 +19,7 @@ class Solution:
                 elif j==c-1:
                     pass
                 # bottom check
-                if i==r-1:
+                elif i==r-1:
                     pass
 
                     
