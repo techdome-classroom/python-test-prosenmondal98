@@ -8,8 +8,9 @@ class Solution:
             for j in range(c):
                 #  top check
                 if i==0:
-                    
+                    pass
                 # left check
+                if 
                 # right check
                 # bottom check
 
