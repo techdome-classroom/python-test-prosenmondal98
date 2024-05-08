@@ -13,7 +13,7 @@ def decode_message( s: str, p: str) -> bool:
                         
                         else:
                                 return False
-        if n
+        if n==
                     
   
         return False
