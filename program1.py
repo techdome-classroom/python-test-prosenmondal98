@@ -10,7 +10,8 @@ class Solution:
                 if i==0:
                     pass
                 # left check
-                if 
+                if j=0:
+                    pass
                 # right check
                 # bottom check
 
