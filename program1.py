@@ -7,6 +7,7 @@ class Solution:
         for i in range(r):
             for j in range(c):
                 #  top check
+                
                 # left check
                 # right check
                 # bottom check
