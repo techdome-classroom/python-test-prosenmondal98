@@ -13,7 +13,8 @@ class Solution:
                 if j==0:
                     pass
                 # right check
-                if j==
+                if j==c-1:
+                    pass
                 # bottom check
 
                     
