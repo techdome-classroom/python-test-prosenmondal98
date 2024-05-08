@@ -13,7 +13,7 @@ class Solution:
                     continue
                 elif grid[i][j]=='L'
                 # left check
-                if j==0:
+                elif j==0:
                     pass
                 # right check
                 if j==c-1:
