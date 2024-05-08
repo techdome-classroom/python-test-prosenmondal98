@@ -9,7 +9,7 @@ class Solution:
                 #  top check
                 if i==0:
                     continue
-                elif
+                elif 
                 # left check
                 if j==0:
                     pass
