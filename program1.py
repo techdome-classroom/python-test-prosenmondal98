@@ -11,7 +11,7 @@ class Solution:
                 #  top check
                 if i==0:
                     continue
-                elif grid[]
+                elif grid[i]
                 # left check
                 if j==0:
                     pass
