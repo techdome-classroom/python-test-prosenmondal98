@@ -17,10 +17,10 @@ class Solution:
                     continue
                 # right check
                 elif j==c-1:
-                    pass
+                    continue
                 # bottom check
                 elif i==r-1:
-                    pass
+                    continue
 
                     
         return 0
