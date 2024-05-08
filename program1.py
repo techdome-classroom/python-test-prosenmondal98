@@ -8,7 +8,8 @@ class Solution:
             for j in range(c):
                 #  top check
                 if i==0:
-                    pass
+                    continue
+                
                 # left check
                 if j==0:
                     pass
