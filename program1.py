@@ -6,6 +6,7 @@ class Solution:
         
         for i in range(r):
             for j in range(c):
+                if 
                 #  top check
                 if i==0:
                     continue
