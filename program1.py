@@ -14,9 +14,9 @@ class Solution:
                 elif grid[i][j]=='L'
                 # left check
                 elif j==0:
-                    pass
+                    continue
                 # right check
-                if j==c-1:
+                elif j==c-1:
                     pass
                 # bottom check
                 if i==r-1:
