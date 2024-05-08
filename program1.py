@@ -4,6 +4,8 @@ class Solution:
     #    write your code here
         r, c=len(grid), len(grid[0])
         
-        for i in range(r)
+        for i in range(r):
+            for j in range(c):
+                
                     
         return 0
