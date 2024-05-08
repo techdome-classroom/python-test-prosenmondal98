@@ -4,7 +4,7 @@ def decode_message( s: str, p: str) -> bool:
         for i in range(len(s)):
                 for j in range(len(p)):
                         if p[j]=='*':
-                                
+                                return True
                         elif s[i]==p[j] or 'j':
                                 continue
                         
