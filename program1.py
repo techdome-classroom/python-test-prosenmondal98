@@ -8,7 +8,6 @@ class Solution:
             for j in range(c):
                 if grid[i][j]=='W':
                     continue
-
                 #  top check
                 if i==0:
                     continue
