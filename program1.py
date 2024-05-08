@@ -6,7 +6,7 @@ class Solution:
         
         for i in range(r):
             for j in range(c):
-                if 
+                if grid[i][j]=='L'
                 #  top check
                 if i==0:
                     continue
