@@ -6,6 +6,6 @@ class Solution:
         
         for i in range(r):
             for j in range(c):
-                
+                if 
                     
         return 0
