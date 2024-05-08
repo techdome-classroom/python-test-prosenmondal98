@@ -12,13 +12,14 @@ class Solution:
                 if i==0:
                     continue
                 elif grid[i][j]=='L':
-                    
+                    pass
                 # left check
                 elif j==0:
                     continue
                 # right check
                 elif j==c-1:
                     continue
+                
                 # bottom check
                 elif i==r-1:
                     continue
